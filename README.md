@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeveshGoyal26
+- 👋 Hi, I’m Devesh Goyal
 - 👀 I’m interested in mangs, anime,coding, tech and much more
 - 🌱 I’m currently learning Web development at Masai School
 
