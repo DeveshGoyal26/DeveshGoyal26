@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/devesh-goyal-d26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh goyal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19226564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19226564" height="30" width="40" /></a>
 <a href="https://codesandbox.com/devesh26goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="devesh26goyal" height="30" width="40" /></a>
-<a href="https://dribbble.com/devesh goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devesh goyal" height="30" width="40" /></a>
+<a href="https://dribbble.com/devesh26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devesh goyal" height="30" width="40" /></a>
 <a href="https://medium.com/@devesh26goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devesh26goyal" height="30" width="40" /></a>
 </p>
 
