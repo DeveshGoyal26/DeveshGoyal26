@@ -3,7 +3,7 @@
 
 <h1 align="left">Git Trophy's</h1>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DeveshGoyal26&theme=dark&show_icons=true)](https://github.com/DeveshGoyal26/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeveshGoyal26&theme=darkhub)](https://github.com/DeveshGoyal26/github-profile-trophy)
 
 - 🌱 I’m currently learning **MEARN Stack**
 
