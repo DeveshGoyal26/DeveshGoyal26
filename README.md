@@ -39,4 +39,4 @@
 
 <h1 align="left">Languages</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshGoyal26&layout=compact)](https://github.com/DeveshGoyal26/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshGoyal26&layout=compact&theme=dark&show_icons=true)](https://github.com/DeveshGoyal26/github-readme-stats)
