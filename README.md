@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devesh Goyal</h1>
 <h3 align="center">A passionate Full stack web developer from India</h3>
 
-https://github-profile-trophy.vercel.app/?username=DeveshGoyal26
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeveshGoyal26)](https://github.com/DeveshGoyal26/github-profile-trophy)
 
 - 🌱 I’m currently learning **MEARN Stack**
 
