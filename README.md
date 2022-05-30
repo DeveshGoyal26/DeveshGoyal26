@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MEARN Stack**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-repo-new.vercel.app/](https://portfolio-repo-new.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/DeveshGoyal26?tab=repositories](https://github.com/DeveshGoyal26?tab=repositories)
 
 - 📝 I sometimes write articles on [https://medium.com/@devesh26goyal](https://medium.com/@devesh26goyal)
 
