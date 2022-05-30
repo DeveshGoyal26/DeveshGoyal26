@@ -36,3 +36,7 @@
 <h1 align="left">Git Stats</h1>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveshGoyal26)](https://github.com/DeveshGoyal26/github-readme-stats)
+
+<h1 align="left">Languages</h1>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveshGoyal26&layout=compact)](https://github.com/DeveshGoyal26/github-readme-stats)
