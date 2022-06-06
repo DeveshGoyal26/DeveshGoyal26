@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, I'm Devesh Goyal</h1>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=DeveshGoyal26&label=Profile%20views&color=0e75b6&style=flat" alt="SHUBHAM MEENA" /> </h3>
 <h3 align="left">A passionate Full stack web developer from India</h3>
 
 <h1 align="left">Git Trophy's</h1>
