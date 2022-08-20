@@ -22,7 +22,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=DeveshGoyal26&theme=darkhub)](https://github.com/DeveshGoyal26/github-profile-trophy)
 
 
-<h3 align="left">Connect with me</h3>
+<h1 align="left">Connect with me</h1>
 <p align="left">
 <a href="https://github.com/DeveshGoyal26" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -53,7 +53,7 @@
 </a>  
 </p>
 
-<h3 align="left">Teach Stack</h3>
+<h1 align="left">Teach Stack</h1>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
