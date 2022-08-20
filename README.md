@@ -12,9 +12,9 @@
 
 - 📫 How to reach me **devesh26goyal@gmail.com**
 
-- 📁 Here is My Portfolio -[click here](https://devesh-goyal-portfolio.vercel.app/)
+- 📁 Here is My Portfolio - [click here](https://devesh-goyal-portfolio.vercel.app/)
 
-- 📄 Know about my experiences [click here](https://docs.google.com/document/d/1MnIcmVnK91z90weWF6JEMvKsVRZfWh5KUOoFBG_zVGY/edit?usp=sharing)
+- 📄 Know about my experiences - [click here](https://docs.google.com/document/d/1MnIcmVnK91z90weWF6JEMvKsVRZfWh5KUOoFBG_zVGY/edit?usp=sharing)
 
 
 <h1 align="left">Git Trophy's</h1>
