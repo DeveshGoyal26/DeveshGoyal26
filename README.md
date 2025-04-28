@@ -14,7 +14,7 @@
 
 - 📁 Here is My Portfolio - [click here](https://devesh-goyal-portfolio.vercel.app/)
 
-- 📄 Know about my experiences - [click here](https://docs.google.com/document/d/1MnIcmVnK91z90weWF6JEMvKsVRZfWh5KUOoFBG_zVGY/edit?usp=sharing)
+- 📄 Know about my experiences - [click here](https://drive.google.com/file/d/1VW0RbdnC_zT89cywdtX6moT5yzTAaUvo/view?usp=sharing)
 
 
 <h1 align="left">Git Trophy's</h1>
