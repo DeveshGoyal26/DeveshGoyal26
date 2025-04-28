@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Devesh Goyal</h1>
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=DeveshGoyal26&label=Profile%20views&color=0e75b6&style=flat" alt="SHUBHAM MEENA" /> </h3>
-<h3 align="left">I am an aspiring Full stack web developer, who is passionate about building awe inspiring, user friendly and features rich websites.</h3>
+<h3 align="left">I am an Full stack web developer, who is passionate about building awe inspiring, user friendly and features rich websites.</h3>
 
 - 🌱 I’m currently learning **MEARN Stack**
 
